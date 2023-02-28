@@ -1,4 +1,4 @@
-# lines_on_de1_soc
+# Lines on DE1-SoC
 Working code for ECE243 Lab 5 (Winter 2023) at the University of Toronto. The goal is to draw graphics (lines) on a VGA connected display on the DE1-SoC computer using the ARMv7 processor. All code is written in C and debugged in ARM Assembly. To simulate the code, upload the code and compile using the ARMv7 [CPUlator online tool](https://cpulator.01xz.net/?sys=arm-de1soc "CPUlator"). See the included lab handout for more information.
 
 ## Part 1
